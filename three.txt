@@ -1,0 +1,2 @@
+ this is for branch b2
+ and we are getting from local to remote repo
